@@ -47,15 +47,6 @@
 - Aarunya Luxe — E-commerce platform
 - Gesture Control — Computer vision project
 
-## 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreejith025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Sreejith025&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ## 🤝 Connect With Me
 
