@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./github-banner.jpg"
+    alt="Sreejith M - Full Stack Developer"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sreejith M</h1>
 
 <h3 align="center">
